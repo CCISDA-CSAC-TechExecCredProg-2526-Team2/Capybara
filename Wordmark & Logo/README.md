@@ -1,0 +1,20 @@
+# Wordmark & Logo files
+- Capybara\Wordmark & Logo\\**Wordmark.png**
+- Capybara\Wordmark & Logo\\**Wordmark [SKETCHED DARK].png**
+- Capybara\Wordmark & Logo\\**Wordmark [SKETCHED LIGHT].png**
+- Capybara\Wordmark & Logo\\**Wordmark [SKETCHED MEDIUM].png**
+- Capybara\Wordmark & Logo\\**Wordmark [SKETCHED SEPIA].png**
+- Capybara\Wordmark & Logo\\**Logo [STACKED].png**
+- Capybara\Wordmark & Logo\\**Logo [HORIZONTAL].png**
+- Capybara\Wordmark & Logo\\**Logo [HORIZONTAL SEPIA].png**
+- Capybara\Wordmark & Logo\\**Logo [STACKED SEPIA].png**
+- Capybara\Wordmark & Logo\\**Logo with Tagline [HORIZONTAL SEPIA].png**
+- Capybara\Wordmark & Logo\\**Graphic Symbol.png**
+- Capybara\Wordmark & Logo\\**Graphic Symbol [INVERTED SEPIA].png**
+- Capybara\Wordmark & Logo\\**Graphic Symbol [INVERTED].png**
+- Capybara\Wordmark & Logo\\**Graphic Symbol [SEPIA].png**
+- Capybara\Wordmark & Logo\\**''C'' Initial.png**
+- Capybara\Wordmark & Logo\\**''C'' Initial [SKETCHED DARK].png**
+- Capybara\Wordmark & Logo\\**''C'' Initial [SKETCHED LIGHT].png**
+- Capybara\Wordmark & Logo\\**''C'' Initial [SKETCHED MEDIUM].png**
+- Capybara\Wordmark & Logo\\**''C'' Initial [SKETCHED SEPIA].png**
