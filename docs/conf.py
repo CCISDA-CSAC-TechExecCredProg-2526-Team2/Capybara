@@ -1,4 +1,4 @@
 version: 2
 
-# Default
-formats: []
+# Build all formats
+formats: all
