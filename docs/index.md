@@ -12,5 +12,7 @@ This documentation corresponds to:
 :caption: Contents
 
 editions/original/index
+contributing
 style-notes
+changelog
 ```
