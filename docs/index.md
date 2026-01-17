@@ -7,11 +7,12 @@ This documentation corresponds to:
 
 **Capybara: {{ release }}**
 
-toctree::
-:maxdepth: 2
+```{toctree}
+:maxdepth: 4
 :caption: Contents
 
 style-notes
 contributing
 changelog
 editions/original/index
+```
