@@ -3,7 +3,7 @@ Style Notes and Guidelines
 ==========================
 
 .. raw:: html
-
+```
     <style>
     /* Headings */
     h1, h2, h3, h4, h5, h6 {
@@ -37,6 +37,7 @@ Style Notes and Guidelines
     .accent4 { background-color: #00356B; }
 
     </style>
+```
 
 Introduction
 ============
@@ -45,7 +46,6 @@ This document outlines the **style notes and guidelines** for the Capybara Frame
 
 All future editions should respect these choices unless explicitly updated in a new edition's "Style Notes and Guidelines" section.
 
----
 
 Color Palette
 =============
@@ -78,7 +78,6 @@ Color Palette
 - `#0C61B9` – tertiary accent  
 - `#00356B` – deep accent / headers if needed
 
----
 
 Headings
 ========
@@ -99,7 +98,6 @@ Sub-subsection Title
 
 ```
 
----
 
 Text and Typography
 ==================
@@ -108,7 +106,6 @@ Text and Typography
 - **Links:** Use `#39BBFF` for standard links; hover states can be `#277DD1`.  
 - **Emphasis:** Italics or bold as needed, but avoid excessive styling.
 
----
 
 Lists
 =====
@@ -124,7 +121,6 @@ Example:
 * Second item
 ```
 
----
 
 Callouts / Notes
 ================
@@ -139,7 +135,6 @@ Callouts / Notes
 
 - For warnings or cautions, consider using **sepia2 (#77390A)** for borders with `#DAC4B0` background.
 
----
 
 Images
 ======
@@ -148,7 +143,6 @@ Images
 - Backgrounds should not clash with sepia tones; transparent backgrounds are ideal.  
 - File naming: lowercase, hyphen-separated (see File Naming Conventions).
 
----
 
 Branding Consistency
 ===================
@@ -157,7 +151,6 @@ Branding Consistency
 - Edition info (name, version, tagline) should appear directly below the logo.  
 - Color accents in headings, links, and callouts should match the defined palette.
 
----
 
 Supplemental Guidelines
 ======================
