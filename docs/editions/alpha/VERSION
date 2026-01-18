@@ -3,5 +3,5 @@ edition_version = "0.0.1"
 edition_tagline = "The Under-Construction Pre-Beta Development Edition"
 edition_description = "Alpha edition of the Capybara Framework."
 
-author_supplemental = "" # Leave blank for this Alpha edition
-copyright_supplemental = "" # Leave blank for this Alpha edition
+author_supplemental = ""
+copyright_supplemental = ""
