@@ -1,8 +1,5 @@
-==========================
-Style Notes and Guidelines
-==========================
+# Style Notes and Guidelines
 
-.. raw:: html
 ```
     <style>
     /* Headings */
@@ -39,25 +36,23 @@ Style Notes and Guidelines
     </style>
 ```
 
-Introduction
-============
+## Introduction
 
 This document outlines the **style notes and guidelines** for the Capybara Framework documentation.
 
 All future editions should respect these choices unless explicitly updated in a new edition's "Style Notes and Guidelines" section.
 
 
-Color Palette
-=============
+## Color Palette
 
 **Sepia Base Colors**
 
-.. raw:: html
-
+```
     <div class="color-swatch sepia1">#9F5A2C</div>
     <div class="color-swatch sepia2">#77390A</div>
     <div class="color-swatch sepia3">#DAC4B0</div>
     <div class="color-swatch sepia4">#C4A48A</div>
+```
 
 - `#9F5A2C` – primary sepia tone  
 - `#77390A` – heading color  
@@ -66,21 +61,19 @@ Color Palette
 
 **Blue Accent Colors**
 
-.. raw:: html
-
+```
     <div class="color-swatch accent1">#39BBFF</div>
     <div class="color-swatch accent2">#277DD1</div>
     <div class="color-swatch accent3">#0C61B9</div>
     <div class="color-swatch accent4">#00356B</div>
+```
 
 - `#39BBFF` – hyperlink / callout highlight  
 - `#277DD1` – secondary hyperlink / buttons  
 - `#0C61B9` – tertiary accent  
 - `#00356B` – deep accent / headers if needed
 
-
-Headings
-========
+## Headings
 
 - All headings should use `#77390A`.  
 - Use `=` for top-level (`h1`), `-` for second-level (`h2`), `~` for third-level (`h3`).  
@@ -89,32 +82,27 @@ Headings
 Example:
 
 ```
-
 # Section Title
 
 ## Subsection Title
 
-Sub-subsection Title
-
+### Sub-subsection Title
 ```
 
 
-Text and Typography
-==================
+## Text and Typography
 
 - **Body text:** Dark brown or black, high contrast against light sepia backgrounds (`#DAC4B0` or `#C4A48A`).  
 - **Links:** Use `#39BBFF` for standard links; hover states can be `#277DD1`.  
 - **Emphasis:** Italics or bold as needed, but avoid excessive styling.
 
 
-Lists
-=====
+## Lists
 
 - Use bullets for unordered lists (`*`), numbers for ordered lists (`1.`).  
 - Nested lists are indented by **3 spaces** per level.  
 
 Example:
-
 ```
 * First item
    * Nested item
@@ -122,38 +110,34 @@ Example:
 ```
 
 
-Callouts / Notes
-================
+## Callouts / Notes
 
 - Use **blue accents** for informational callouts. Example HTML snippet:
 
-.. raw:: html
-
+```
     <div style="border-left: 4px solid #39BBFF; padding: 0.5rem; background-color: #DAC4B0;">
     <strong>Note:</strong> This is an informational callout.
     </div>
+```
 
 - For warnings or cautions, consider using **sepia2 (#77390A)** for borders with `#DAC4B0` background.
 
 
-Images
-======
+## Images
 
 - Prefer **high-resolution images** and consistent styling.  
 - Backgrounds should not clash with sepia tones; transparent backgrounds are ideal.  
 - File naming: lowercase, hyphen-separated (see File Naming Conventions).
 
 
-Branding Consistency
-===================
+## Branding Consistency
 
 - Capybara logo should appear in the **top-left** of Read the Docs sidebar.  
 - Edition info (name, version, tagline) should appear directly below the logo.  
 - Color accents in headings, links, and callouts should match the defined palette.
 
 
-Supplemental Guidelines
-======================
+## Supplemental Guidelines
 
 - Maintain **semantic Markdown / RST** structure for headings, lists, and links.  
 - Update the **Style Notes and Guidelines** section whenever a new edition makes a deliberate style change.  
