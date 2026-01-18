@@ -137,8 +137,9 @@ templates_path = ["_templates",]
 
 html_sidebars = {
     "**": [
-        "globaltoc.html",
+        "logo-text.html",
         "capybara_edition.html",
+        "globaltoc.html",
         "relations.html",
         "searchbox.html",
     ]
