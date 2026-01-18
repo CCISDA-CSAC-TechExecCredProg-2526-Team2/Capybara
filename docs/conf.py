@@ -160,12 +160,6 @@ language = "en"
 myst_enable_extensions = ["colon_fence", "deflist", "tasklist",]
 
 
-
-
-
-
-
-
 # ------------------------------------------------------------
 # HTML output options
 # ------------------------------------------------------------
@@ -177,6 +171,9 @@ html_logo = "_static/capybara-logo.png"
 html_theme_options = {
     "logo_only": True,
     "display_version": False,
+    "collapse_navigation": False,
+    "navigation_depth": 4,
+    "titles_only": True,
 }
 
 html_context = {
