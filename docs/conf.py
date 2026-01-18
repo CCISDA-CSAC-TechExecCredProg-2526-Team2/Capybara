@@ -133,11 +133,6 @@ if CURRENT_EDITION_DIR:
 
 extensions = ["myst_parser",]
 
-myst_substitutions = {
-    "project": "Your Project Name",
-    "edition": "1.0",
-}
-
 templates_path = ["_templates",]
 
 html_sidebars = {
@@ -189,6 +184,7 @@ html_context = {
     "edition_tagline": edition_tagline,
     "edition_description": edition_description,
 }
+myst_substitutions = html_context
 
 # Title shown in browser, sidebar, and search results
 html_title = f"{project} – {edition_full}"
