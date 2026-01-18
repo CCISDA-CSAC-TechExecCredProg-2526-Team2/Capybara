@@ -4,7 +4,7 @@ Branding Guidelines
 Brand name
 ----------
 
-Our brand name is officially **Capybara**. While it is technically an acronym (for "Capturing Assets' Positions Yields Better Analytics, Reporting, and Assignments"), it should always be presented in Capital Case, and _never_ be rendered C.A.P.Y.B.A.R.A.
+Our brand name is officially **Capybara**. While it is technically an acronym (for "Capturing Assets' Positions Yields Better Analytics, Reporting, and Assignments"), it should always be presented in Capital Case, and *never* be rendered C.A.P.Y.B.A.R.A.
 
 Acceptable use
 --------------
