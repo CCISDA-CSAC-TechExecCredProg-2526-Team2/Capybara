@@ -11,10 +11,11 @@ This documentation corresponds to:
 :maxdepth: 2
 :caption: Contents
 
-editions/original/index
-contributing
+editions/alpha/index
 style-notes
 branding
-filenameing-conventions
+filenaming-conventions
+code-of-conduct
+contributing
 changelog
 ```
