@@ -1,5 +1,3 @@
-```{orphan}
-
 # Contributing to Capybara
 
 Thank you for your interest in contributing to **Capybara**. Community contributions are welcome, encouraged, and essential to the long-term health of this project.
