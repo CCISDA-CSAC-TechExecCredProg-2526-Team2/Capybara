@@ -14,6 +14,7 @@ This documentation corresponds to:
 editions/original/index
 contributing
 style-notes
+branding
 filenameing-conventions
 changelog
 ```
