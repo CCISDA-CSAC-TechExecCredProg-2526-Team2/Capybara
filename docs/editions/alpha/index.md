@@ -4,7 +4,7 @@ This section documents the {{ edition_name }} of {{ project }}.
 
 ```{toctree}
 :glob:
-:maxdepth: 3
+:maxdepth: -1
 :caption: Contents
 :titlesonly:
 *
