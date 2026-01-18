@@ -6,9 +6,7 @@ build:
     python: "3.11"
 
 formats:
-  - html
-  - pdf
-  - epub
+  - all
 
 python:
   install:
