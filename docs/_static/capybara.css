@@ -137,6 +137,18 @@ img {
   max-width: 100%;
 }
 
+logos-400 img {
+  max-width: 400px;
+}
+
+logos-250 img {
+  max-width: 250px;
+}
+
+logos-189 img {
+  max-width: 189px;
+}
+
 
 /* Footer */
 .rst-footer-buttons {
