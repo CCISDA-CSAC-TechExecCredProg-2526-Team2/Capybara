@@ -8,11 +8,12 @@ This documentation corresponds to:
 **Capybara: {{ release }}**
 
 ```{toctree}
-:maxdepth: 4
+:maxdepth: 2
 :caption: Contents
 
 editions/original/index
 contributing
 style-notes
+filenameing-conventions
 changelog
 ```
