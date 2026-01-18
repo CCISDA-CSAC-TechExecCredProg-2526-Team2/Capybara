@@ -13,7 +13,6 @@ This documentation corresponds to:
 :titlesonly:
 editions/alpha/index
 
-{toctree}
 :maxdepth: 1
 :caption: Supplemental Matter
 :titlesonly:
