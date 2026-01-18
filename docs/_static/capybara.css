@@ -44,7 +44,7 @@ html {
 }
 
 /* Sidebar spacing */
-.wy-menu {
+.wy-menu-vertical {
    margin-bottom: 10em;
 }
 
@@ -137,15 +137,15 @@ img {
   max-width: 100%;
 }
 
-logos-400 img {
+.logos-400 img {
   max-width: 400px;
 }
 
-logos-250 img {
+.logos-250 img {
   max-width: 250px;
 }
 
-logos-189 img {
+.logos-189 img {
   max-width: 189px;
 }
 
