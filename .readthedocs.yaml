@@ -5,6 +5,11 @@ build:
   tools:
     python: "3.11"
 
+formats:
+  - html
+  - pdf
+  - epub
+
 python:
   install:
     - requirements: docs/requirements.txt
