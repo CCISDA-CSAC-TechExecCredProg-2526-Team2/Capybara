@@ -56,8 +56,13 @@ html {
 
 /* Sidebar text & links */
 .wy-nav-side {
-   color: #x;
+   color: #A9A9A4;
 }
+
+.wy-nav-side caption-text {
+   color: #986D4F !important;
+}
+
 .wy-nav-side a {
   color: #39BBFF;
   font-weight: 600;
@@ -148,7 +153,6 @@ img {
 .logos-189 img {
   max-width: 189px !important;
 }
-
 
 /* Footer */
 .rst-footer-buttons {
