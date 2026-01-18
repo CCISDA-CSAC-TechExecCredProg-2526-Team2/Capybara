@@ -1,5 +1,4 @@
 ```{orphan}
-:toc: false
 
 # Changelog
 
