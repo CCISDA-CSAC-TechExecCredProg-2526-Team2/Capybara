@@ -48,34 +48,34 @@ All future editions should respect these choices unless explicitly updated in a 
 **Sepia Base Colors**
 
 ```
-    <div class="color-swatch sepia1">#9F5A2C</div>
-    <div class="color-swatch sepia2">#77390A</div>
-    <div class="color-swatch sepia3">#DAC4B0</div>
-    <div class="color-swatch sepia4">#C4A48A</div>
+    <div class="color-swatch sepia1">\#9F5A2C</div>
+    <div class="color-swatch sepia2">\#77390A</div>
+    <div class="color-swatch sepia3">\#DAC4B0</div>
+    <div class="color-swatch sepia4">\#C4A48A</div>
 ```
 
-- `#9F5A2C` – primary sepia tone  
-- `#77390A` – heading color  
-- `#DAC4B0` – light background / neutral  
-- `#C4A48A` – accent / secondary background
+- `\#9F5A2C` – primary sepia tone  
+- `\#77390A` – heading color  
+- `\#DAC4B0` – light background / neutral  
+- `\#C4A48A` – accent / secondary background
 
 **Blue Accent Colors**
 
 ```
-    <div class="color-swatch accent1">#39BBFF</div>
-    <div class="color-swatch accent2">#277DD1</div>
-    <div class="color-swatch accent3">#0C61B9</div>
-    <div class="color-swatch accent4">#00356B</div>
+    <div class="color-swatch accent1">\#39BBFF</div>
+    <div class="color-swatch accent2">\#277DD1</div>
+    <div class="color-swatch accent3">\#0C61B9</div>
+    <div class="color-swatch accent4">\#00356B</div>
 ```
 
-- `#39BBFF` – hyperlink / callout highlight  
-- `#277DD1` – secondary hyperlink / buttons  
-- `#0C61B9` – tertiary accent  
-- `#00356B` – deep accent / headers if needed
+- `\#39BBFF` – hyperlink / callout highlight  
+- `\#277DD1` – secondary hyperlink / buttons  
+- `\#0C61B9` – tertiary accent  
+- `\#00356B` – deep accent / headers if needed
 
 ## Headings
 
-- All headings should use `#77390A`.  
+- All headings should use `\#77390A`.  
 - Use `=` for top-level (`h1`), `-` for second-level (`h2`), `~` for third-level (`h3`).  
 - Keep headings clear and descriptive.
 
@@ -92,8 +92,8 @@ Example:
 
 ## Text and Typography
 
-- **Body text:** Dark brown or black, high contrast against light sepia backgrounds (`#DAC4B0` or `#C4A48A`).  
-- **Links:** Use `#39BBFF` for standard links; hover states can be `#277DD1`.  
+- **Body text:** Dark brown or black, high contrast against light sepia backgrounds (`\#DAC4B0` or `\#C4A48A`).  
+- **Links:** Use `\#39BBFF` for standard links; hover states can be `\#277DD1`.  
 - **Emphasis:** Italics or bold as needed, but avoid excessive styling.
 
 
@@ -115,12 +115,12 @@ Example:
 - Use **blue accents** for informational callouts. Example HTML snippet:
 
 ```
-    <div style="border-left: 4px solid #39BBFF; padding: 0.5rem; background-color: #DAC4B0;">
+    <div style="border-left: 4px solid \#39BBFF; padding: 0.5rem; background-color: \#DAC4B0;">
     <strong>Note:</strong> This is an informational callout.
     </div>
 ```
 
-- For warnings or cautions, consider using **sepia2 (#77390A)** for borders with `#DAC4B0` background.
+- For warnings or cautions, consider using **sepia2 (#77390A)** for borders with `\#DAC4B0` background.
 
 
 ## Images
