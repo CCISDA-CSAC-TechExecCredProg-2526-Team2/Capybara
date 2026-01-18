@@ -8,7 +8,7 @@ This documentation corresponds to:
 **Capybara: { release }**
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 :caption: Framework Contents
 :titlesonly:
 editions/alpha/index
@@ -23,5 +23,12 @@ branding
 filenaming-conventions
 code-of-conduct
 contributing
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: Versioning & Legal
+:titlesonly:
 changelog
+license
 ```
