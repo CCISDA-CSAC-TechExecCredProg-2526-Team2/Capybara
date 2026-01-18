@@ -5,8 +5,8 @@
 @import url('https://fonts.googleapis.com');
 /* Apply to body text and headings */
 html {
-    --pst-font-family-base: 'Source Sans 3', sans-serif;
-    --pst-font-family-heading: 'Source Sans 3', sans-serif;
+  --pst-font-family-base: 'Source Sans 3', sans-serif;
+  --pst-font-family-heading: 'Source Sans 3', sans-serif;
 }
 .source-code-pro-400 {
   font-family: "Source Code Pro", monospace;
@@ -16,39 +16,59 @@ html {
 }
 
 /* Sidebar background */
-.wy-side-nav-search,
 .wy-nav-side {
-  background: #9F5A2C;
+  /* background: #9F5A2C; */
+  background: #404040;
 }
 
-/* Sidebar text */
+/* Sidebar text & links */
+.wy-nav-side {
+   color: #x;
+}
+.wy-nav-side a {
+  color: #39BBFF;
+  font-weight: 600;
+}
+.wy-nav-side a:hover {
+  color: #FFFFFF;
+}
+.wy-nav-side a:visited {
+  color: #39BBFF;
+}
+
+/* Sidebar search */
+.wy-side-nav-search {
+  background: #404040;
+}
 .wy-side-nav-search input[type="text"] {
-  border-color: #77390A;
+  /* border-color: #77390A; */
+  border-color: #CED3D3;
 }
 
 /* Main background accents */
 .wy-nav-content {
-  background: #DAC4B0;
+  /* background: #DAC4B0; */
+  background: #F3EAE3;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Sans 3', sans-serif !important;
-  font-weight: 600 !important;
+  font-weight: 800 !important;
   color: #77390A;
 }
 
 /* Body text */
 body {
   font-family: 'Source Sans 3', sans-serif !important;
-  font-weight: 300;
+  font-weight: 400;
   color: #3A2A1A;
 }
 
 /* Links */
 a {
   color: #277DD1;
-  font-weight: 400;
+  font-weight: 600;
 }
 a:hover {
   color: #39BBFF;
@@ -58,17 +78,31 @@ a:visited {
 }
 
 /* Inline code */
-.rst-content .literal,
 .rst-content pre,
 .rst-content pre code,
-pre, code, kbd, samp {
+.rst-content .literal,
+.rst-content code.literal,
+.rst-content tt.literal,
+.rst-content kbd,
+.rst-content samp,
+{
   background: #C4A48A;
-  color: #3A2A1A;
-  font-family: "Source Code Pro", monospace;
-  font-weight: 400;
+  color: #000000;
+  white-space: normal;
+  font-family: "Source Code Pro", monospace !important;
+  font-weight: 500;
 }
 
 /* Admonitions */
 .admonition {
   border-left: 6px solid #00356B;
+  font-weight: 700;
+}
+
+/* Footer */
+.rst-footer-buttons {
+   font-size: large;
+}
+footer {
+   font-size: xx-small;
 }
