@@ -1,11 +1,11 @@
 # Capybara Framework  
-## { release }
+## {{ release }}
 
 Welcome to the **Capybara Framework Implementation Guide**.
 
 This documentation corresponds to:
 
-**Capybara: { release }**
+**Capybara: {{ release }}**
 
 ```{toctree}
 :maxdepth: -1
