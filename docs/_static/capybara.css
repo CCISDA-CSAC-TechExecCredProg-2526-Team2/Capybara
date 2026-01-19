@@ -108,9 +108,14 @@ html {
   color: #FFFFFF !important;
 }
 .wy-menu-vertical li.toctree-l1.current>a {
-  background: #FFFFFF !important;
+  background: #088CDB !important;
+  color: #FFFFFF !important;
   border-bottom: 1px solid #FFFFFF !important;
   border-top: 1px solid #FFFFFF !important;
+}
+.wy-menu-vertical li.toctree-l1.current>a:hover {
+  background: #39BBFF !important;
+  color: #D6D6D6 !important;
 }
 .wy-menu-vertical li button.toctree-expand {
     color: #FFFFFF !important;
