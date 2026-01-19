@@ -94,18 +94,18 @@ html {
     color: #000000 !important;
 }
 .wy-menu-vertical li.current>a, .wy-menu-vertical li.on a {
-    background: #ffffff !important;
+    background: #FFFFFF !important;
 }
 .wy-menu-vertical li.current {
-    background: #088CDB !important;
+    background: #D6D6D6 !important;
     color: #000000 !important;
 }
 .wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
-    background: #39BBFD !important;
+    background: #088CDB !important;
 }
 .wy-menu-vertical li.toctree-l1.current>a {
-    border-bottom: 1px solid #ffffff !important;
-    border-top: 1px solid #ffffff !important;
+    border-bottom: 1px solid #FFFFFF !important;
+    border-top: 1px solid #FFFFFF !important;
 }
 
 /* Headings */
