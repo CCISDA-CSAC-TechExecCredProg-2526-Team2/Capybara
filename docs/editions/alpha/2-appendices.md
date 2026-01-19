@@ -2,6 +2,7 @@
 
 ```{include} 2-appendices/README.md
 :heading-offset: 1
+```
 
 ```{toctree}
 :glob:
