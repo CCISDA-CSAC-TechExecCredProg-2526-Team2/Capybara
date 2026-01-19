@@ -1,6 +1,9 @@
 Scripts
 =======
 
+.. include:: 4-scripts/README.md
+   :parser: myst_parser.sphinx_
+
 .. list-table::
    :widths: 20 80
    :align: left
