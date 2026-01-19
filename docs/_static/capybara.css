@@ -23,7 +23,7 @@ html {
   margin: 0.75rem 0 1.25rem 0;
   padding: 0.75rem;
   border-left: 4px solid #535353;
-  background-color: #404040;
+  background-color: #202020;
   font-size: 0.85rem;
 }
 
@@ -51,7 +51,7 @@ html {
 /* Sidebar background */
 .wy-nav-side {
   /* background: #9F5A2C; */
-  background: #404040;
+  background: #202020;
 }
 
 /* Sidebar text & links */
@@ -76,7 +76,7 @@ html {
 
 /* Sidebar search */
 .wy-side-nav-search {
-  background: #404040;
+  background: #202020;
 }
 .wy-side-nav-search input[type="text"] {
   /* border-color: #77390A; */
@@ -90,11 +90,15 @@ html {
 }
 
 /* Toctree */
-.wy-menu-vertical li.current {
-    background: #088CDB !important;
+.wy-menu-vertical li.current a {
+    color: #000000 !important;
+}
+.wy-menu-vertical li.current>a, .wy-menu-vertical li.on a {
+    background: #ffffff !important;
 }
 .wy-menu-vertical li.current {
-    background: #e3e3e3 !important;
+    background: #088CDB !important;
+    color: #000000 !important;
 }
 .wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
     background: #39BBFD !important;
