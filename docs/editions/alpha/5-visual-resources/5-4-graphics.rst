@@ -1,5 +1,5 @@
-Capybara Mascot Graphics
-========================
+Graphics
+========
 
 .. container:: logos-250
 
