@@ -1,6 +1,9 @@
 Document Templates
 ==================
 
+.. include:: 6-document-templates/README.md
+   :parser: myst_parser.sphinx_
+
 Project Planning
 ----------------
 
