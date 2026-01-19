@@ -2,6 +2,7 @@
 
 ```{include} 3-reference-materials/README.md
 :heading-offset: 1
+```
 
 ```{toctree}
 :glob:
