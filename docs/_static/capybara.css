@@ -100,10 +100,10 @@ html {
   background: #D6D6D6 !important;
   color: #000000 !important;
 }
-.wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
+.wy-menu-vertical li.current>a, .wy-menu-vertical li.current li>a {
   background: #39BBFF !important; /* bright blue */
 }
-.wy-menu-vertical li.toctree-l2.current>a:hover, .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a:hover {
+.wy-menu-vertical li.current>a:hover, .wy-menu-vertical li.current li>a:hover {
   background: #088CDB !important; /* darker blue */
   color: #FFFFFF !important;
 }
