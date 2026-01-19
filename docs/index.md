@@ -1,5 +1,5 @@
 # Capybara Framework  
-## {{ release }}
+## Release: {{ release }}
 
 Welcome to the **Capybara Framework Implementation Guide**.
 
