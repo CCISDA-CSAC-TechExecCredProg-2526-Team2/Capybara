@@ -3,7 +3,7 @@
 ```{toctree}
 :glob:
 :maxdepth: 3
-:caption: Contents
+:caption: 
 :titlesonly:
 2-appendices/*
 ```
