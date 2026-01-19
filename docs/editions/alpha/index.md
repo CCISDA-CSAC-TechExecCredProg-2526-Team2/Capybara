@@ -1,8 +1,6 @@
-# {{ project }}
+# Capybara Framework
 
-**Edition:** {{ edition_full }}
-
-This section documents the {{ edition_name }} of {{ project }}.
+**Alpha Edition** 0.0.1
 
 ```{toctree}
 :glob:
