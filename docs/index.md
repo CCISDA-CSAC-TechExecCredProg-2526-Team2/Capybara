@@ -20,6 +20,7 @@ editions/alpha/index
 :titlesonly:
 style-notes
 branding
+_static/assets/graphics/index
 filenaming-conventions
 code-of-conduct
 contributing
