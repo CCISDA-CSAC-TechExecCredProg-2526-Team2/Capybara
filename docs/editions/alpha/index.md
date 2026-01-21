@@ -7,7 +7,7 @@ Alpha Edition of the Capybara Framework.
 
 ```{toctree}
 :glob:
-:maxdepth: 1
+:maxdepth: 2
 :caption: Contents
 :titlesonly:
 *
