@@ -1,7 +1,5 @@
-# Implementation Guide
-
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 
 1-1-first-steps/index
 1-2-indoors-setup/index
