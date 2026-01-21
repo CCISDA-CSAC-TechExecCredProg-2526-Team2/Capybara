@@ -233,7 +233,7 @@ li.wy-breadcrumbs-aside {
    display: block;
    position: fixed;
    top: 0;
-   right: 50px;
+   right: 20px;
    
    font-family: var(--readthedocs-flyout-font-family) !important;
    font-size: var(--readthedocs-flyout-font-size) !important;
