@@ -237,7 +237,7 @@ li.wy-breadcrumbs-aside {
    
    font-family: var(--readthedocs-flyout-font-family) !important;
    font-size: var(--readthedocs-flyout-font-size) !important;
-   font-weight: normal !important;
+   font-weight: 300 !important;
    color: var(--readthedocs-flyout-current-version-color) !important;
    background-color: var(--readthedocs-flyout-background-color) !important;
    line-height: var(--readthedocs-flyout-line-height) !important;
