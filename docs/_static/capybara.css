@@ -92,6 +92,7 @@ body {
 .wy-nav-content {
   /* background: #DAC4B0; */
   background: #F3EAE3;
+  border: 1px solid #FFFFFF;
 }
 
 /* Toctree */
