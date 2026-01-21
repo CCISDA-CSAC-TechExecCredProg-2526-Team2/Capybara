@@ -227,3 +227,29 @@ footer {
 .rst-content table.docutils:not(.field-list) tr:nth-child(2n-0) td, .wy-table-backed, .wy-table-even td, .wy-table-striped tr:nth-child(2n-0) td {
     background-color: #f3f6f6;
 }
+
+/* View page source */
+li.wy-breadcrumbs-aside {
+   display: block;
+   position: fixed;
+   top: 0;
+   right: 50px;
+   
+   font-family: var(--readthedocs-flyout-font-family);
+   font-size: var(--readthedocs-flyout-font-size);
+   color: var(--readthedocs-flyout-color);
+   background-color: var(--readthedocs-flyout-background-color);
+   line-height: var(--readthedocs-flyout-line-height);
+   z-index: 3000;
+   padding: 0 10px;
+   overflow-y: auto;
+
+   max-width: var(--readthedocs-flyout-max-width);
+   width: auto;
+   height: auto;
+   max-height: calc(100% - 100px);
+   overflow-y: auto;
+   line-height: var(--readthedocs-flyout-line-height);
+
+   unicode-bidi: isolate;
+}
