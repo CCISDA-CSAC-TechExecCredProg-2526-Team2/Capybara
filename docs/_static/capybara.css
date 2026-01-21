@@ -235,14 +235,15 @@ li.wy-breadcrumbs-aside {
    top: 0;
    right: 50px;
    
-   font-family: var(--readthedocs-flyout-font-family);
-   font-size: var(--readthedocs-flyout-font-size);
-   color: var(--readthedocs-flyout-current-version-color)
-   background-color: var(--readthedocs-flyout-background-color);
-   line-height: var(--readthedocs-flyout-line-height);
-   z-index: 3000;
+   font-family: var(--readthedocs-flyout-font-family) !important;
+   font-size: var(--readthedocs-flyout-font-size) !important;
+   font-weight: normal !important;
+   color: var(--readthedocs-flyout-current-version-color) !important;
+   background-color: var(--readthedocs-flyout-background-color) !important;
+   line-height: var(--readthedocs-flyout-line-height) !important;
+   z-index: 3000 !important;
    padding: 0.75em 10px !important;
-   overflow-y: auto;
+   overflow-y: auto !important;
 
    max-width: var(--readthedocs-flyout-max-width);
    width: auto;
