@@ -11,4 +11,4 @@ Alpha Edition of the Capybara Framework.
 :maxdepth: 3
 :caption: Contents
 :titlesonly:
-**
+*
