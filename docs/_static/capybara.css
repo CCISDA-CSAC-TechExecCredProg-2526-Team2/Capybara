@@ -211,14 +211,14 @@ footer {
 /* Mascot illustrations */
 .capybara-left {
   float: left;
-  width: 150px;
+  width: 250px;
   margin: 0 1em 1em 0;
   shape-outside: circle(50%);
 }
 
 .capybara-right {
   float: right;
-  width: 150px;
+  width: 250px;
   margin: 0 0 1em 1em;
   shape-outside: circle(50%);
 }
