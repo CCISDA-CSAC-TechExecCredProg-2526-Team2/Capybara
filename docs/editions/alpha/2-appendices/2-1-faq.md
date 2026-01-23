@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-<img class="capybara-right" width="250px" src="/en/latest/_images/BG.png" alt="Capybara standing with question marks above his head" style="filter: sepia(25%); shape-outside: ellipse(100% 100% at 50% 50%) !important;">**What is the Capybara Framework?**
+<img class="capybara-right" src="/en/latest/_images/BG.png" alt="Capybara standing with question marks above his head" style="max-height: 200px !important; width:auto !important; filter: sepia(25%); shape-outside: ellipse(100% 100% at 50% 50%) !important;">**What is the Capybara Framework?**
    The Capybara Framework is a structured approach for integrating IT Asset Management (ITAM) and IT Service Management (ITSM) systems with indoor spatial data in ArcGIS Indoors. It provides patterns, guidance, and tools to unify operational IT workflows with physical location context.
 
 **Who should use Capybara?**
