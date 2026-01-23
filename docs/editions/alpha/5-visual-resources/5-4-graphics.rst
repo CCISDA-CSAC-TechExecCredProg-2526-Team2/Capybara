@@ -368,6 +368,20 @@ Graphics
        - :download:`Z.png <../../../_static/assets/graphics/Z.png>`
 
 
+  .. figure:: ../../../_static/assets/graphics/BG.png
+
+  .. list-table::
+     :widths: 20 80
+     :header-rows: 0
+
+     * - **Description**
+       - PLACEHOLDER
+     * - **License**
+       - CC-BY 4.0
+     * - **PNG**
+       - :download:`BG.png <../../../_static/assets/graphics/BG.png>`
+
+
   .. figure:: ../../../_static/assets/graphics/AA.png
 
   .. list-table::
