@@ -38,3 +38,17 @@ Presentation
      - * **Description:** Microsoft PowerPoint presentation template  
        * **License:** MIT  
        * **PPTX:** :download:`presentation.pptx <6-document-templates/presentation.pptx>`
+
+Satisfaction Survey
+-------------------
+
+.. list-table::
+   :widths: 20 80
+   :align: left
+
+   * - .. image:: 5-visual-resources/5-5-icons/icon-docx.svg
+          :width: 64px
+          :alt: Word template icon
+     - * **Description:** Microsoft Word user satisfaction survey
+       * **License:** MIT  
+       * **PPTX:** :download:`health-check.pptx <6-document-templates/health-check.pptx>`
