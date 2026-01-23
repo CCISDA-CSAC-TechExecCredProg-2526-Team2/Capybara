@@ -1,6 +1,9 @@
 Icons
 =====
 
+File Icons
+----------
+
 .. container:: icons-64
 
   .. figure:: 5-5-icons/file-docx.png
@@ -92,6 +95,11 @@ Icons
   :Recommended display width: 64px
   :Description: AVI video file icon
   :PNG: :download:`file-avi.png <5-5-icons/file-avi.png>`
+
+Callout Symbols
+---------------
+
+.. container:: icons-64
 
   .. figure:: 5-5-icons/symbol-arrow.png
   :Recommended display width: 64px
