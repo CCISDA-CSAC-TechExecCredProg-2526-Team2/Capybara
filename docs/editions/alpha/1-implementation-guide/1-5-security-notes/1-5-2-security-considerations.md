@@ -1,6 +1,6 @@
 # Security Considerations for Capybara Integration
 
-Integrating IT asset management and service management systems with ArcGIS Indoors through the Capybara Framework creates powerful operational capabilities, but it also introduces important security responsibilities. By design, Capybara connects systems that manage assets, facilities, and workflows, often exposing spatial context that can be sensitive if mishandled. Security must therefore be considered from the outset of the integration, not added later as an afterthought. The following guidance highlights key areas to consider and provides practical advice for implementing Capybara in a secure, well-governed manner.
+<img class="capybara-right" width="250px" src="/en/latest/_images/AF.png" alt="Capybara security guard examining binary data" style="filter: sepia(25%);">Integrating IT asset management and service management systems with ArcGIS Indoors through the Capybara Framework creates powerful operational capabilities, but it also introduces important security responsibilities. By design, Capybara connects systems that manage assets, facilities, and workflows, often exposing spatial context that can be sensitive if mishandled. Security must therefore be considered from the outset of the integration, not added later as an afterthought. The following guidance highlights key areas to consider and provides practical advice for implementing Capybara in a secure, well-governed manner.
 
 ## Key Security Points for Capybara Integration
 
