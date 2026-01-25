@@ -121,7 +121,7 @@ Examples:
 </div>
 ```
 
-<div class="callout callout-default"><img src="/en/latest/images/symbol-arrow.png" class="callout-icon"><span class="callout-title">Default Callout</span>
+<div class="callout callout-default"><img src="/en/latest/_images/symbol-arrow.png" class="callout-icon"><span class="callout-title">Default Callout</span>
 <strong>Note:</strong> This is a default callout.
 </div>
 
