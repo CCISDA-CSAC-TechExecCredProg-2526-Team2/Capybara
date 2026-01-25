@@ -268,9 +268,19 @@ footer {
   --callout-padding: 1em !important;
 }
 .callout {
-  padding: var(--callout-padding);
-  background-color: #FFFFFF;
-  margin-bottom: 1rem;
+  padding: var(--callout-padding) !important;
+  background-color: #FFFFFF !important;
+  margin-bottom: 1rem !important;
+}
+img.callout-icon {
+   display:block !important;
+   float: left !important;
+   padding-right: 0.75em !important;
+}
+span.callout-title {
+   display: block !important;
+   font-size: x-large !important;
+   color: #484642 !important;
 }
 .callout-tip { border-color: var(--color-tip) !important; }
 .callout-check { border-color: var(--color-check) !important; }
