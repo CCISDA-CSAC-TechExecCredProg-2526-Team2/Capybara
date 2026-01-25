@@ -280,7 +280,9 @@ img.callout-icon {
 span.callout-title {
    display: block !important;
    font-size: x-large !important;
+   font-weight: 800 !important;
    color: #484642 !important;
+   padding-bottom: 0.75em !important;
 }
 .callout-tip { border-color: var(--color-tip) !important; }
 .callout-check { border-color: var(--color-check) !important; }
