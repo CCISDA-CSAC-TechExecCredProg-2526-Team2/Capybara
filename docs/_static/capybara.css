@@ -267,6 +267,59 @@ footer {
   --callout-border-style: double !important;
   --callout-padding: 1em !important;
 }
+.callout {
+  padding: var(--callout-padding);
+  background-color: #FFFFFF;
+  margin-bottom: 1rem;
+}
+.callout-tip {
+  --callout-border-color: var(--color-tip);
+}
+.callout-tip {
+  --callout-border-check: var(--color-check);
+}
+.callout-tip {
+  --callout-border-info: var(--color-info);
+}
+.callout-tip {
+  --callout-border-warning: var(--color-warning);
+}
+.callout-tip {
+  --callout-border-important: var(--color-important);
+}
+.callout-tip {
+  --callout-border-technicalnote: var(--color-technicalnote);
+}
+.callout-tip {
+  --callout-border-bonusinfo: var(--color-bonusinfo);
+}
+.callout-tip {
+  --callout-border-question: var(--color-question);
+}
+.callout-tip {
+  --callout-border-ontarget: var(--color-ontarget);
+}
+.callout-tip {
+  --callout-border-screenshot: var(--color-screenshot);
+}
+.callout-tip {
+  --callout-border-quotation: var(--color-quotation);
+}
+.callout-tip {
+  --callout-border-closerlook: var(--color-closerlook);
+}
+.callout-tip {
+  --callout-border-comingsoon: var(--color-comingsoon);
+}
+.callout-tip {
+  --callout-border-externallinks: var(--color-externallinks);
+}
+.callout-tip {
+  --callout-border-video: var(--color-video);
+}
+.callout-default {
+  --callout-border-color: var(--color-default);
+}
 
 /* View page source */
 li.wy-breadcrumbs-aside {
