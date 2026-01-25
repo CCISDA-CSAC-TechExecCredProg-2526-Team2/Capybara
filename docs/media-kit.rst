@@ -7,7 +7,7 @@ QR Code
 .. container:: logos-250
 
 
-  .. figure:: //_images/qr-code.png
+  .. figure:: /en/latest/_static/assets/media-kit/qr-code.png
 
   .. list-table::
      :widths: 20 80
@@ -18,12 +18,12 @@ QR Code
      * - **License**
        - No attribution required
      * - **PNG**
-       - :download:`qr-code.png <//_images/qr-code.png>`
+       - :download:`qr-code.png </en/latest/_static/assets/media-kit/qr-code.png>`
 
 Stickers
 --------
 
-  .. figure:: ./_images/qr-sticker-1.png
+  .. figure:: /en/latest/_static/assets/media-kit/qr-sticker-1.png
 
   .. list-table::
      :widths: 20 80
@@ -34,10 +34,10 @@ Stickers
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`qr-sticker-1.png <./_images/qr-sticker-1.png>`
+       - :download:`qr-sticker-1.png </en/latest/_static/assets/media-kit/qr-sticker-1.png>`
 
 
-  .. figure:: /./_images/qr-sticker-2.png
+  .. figure:: /en/latest/_static/assets/media-kit/qr-sticker-2.png
 
   .. list-table::
      :widths: 20 80
@@ -48,10 +48,10 @@ Stickers
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`qr-sticker-2.png </./_images/qr-sticker-2.png>`
+       - :download:`qr-sticker-2.png </en/latest/_static/assets/media-kit/qr-sticker-2.png>`
 
 
-  .. figure:: _images/qr-sticker-3.png
+  .. figure:: /en/latest/_static/assets/media-kit/qr-sticker-3.png
 
   .. list-table::
      :widths: 20 80
@@ -62,7 +62,7 @@ Stickers
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`qr-sticker-3.png <_images/qr-sticker-3.png>`
+       - :download:`qr-sticker-3.png </en/latest/_static/assets/media-kit/qr-sticker-3.png>`
 
 
   .. figure:: /en/latest/_static/assets/media-kit/qr-sticker-4.png
