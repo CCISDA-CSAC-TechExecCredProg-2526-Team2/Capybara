@@ -116,10 +116,14 @@ Examples:
 - Use **blue accents** for informational callouts. Example HTML snippet:
 
 ```
-    <div style="border-left: 4px solid #39BBFF; padding: 0.5rem; background-color: #DAC4B0;">
-    <strong>Note:</strong> This is an informational callout.
-    </div>
+<div class="callout callout-default"><img src="symbol-arrow.png" class="callout-icon"><span class="callout-title">Default Callout</span>
+<strong>Note:</strong> This is a default callout.
+</div>
 ```
+
+<div class="callout callout-default"><img src="symbol-arrow.png" class="callout-icon"><span class="callout-title">Default Callout</span>
+<strong>Note:</strong> This is a default callout.
+</div>
 
 - For warnings or cautions, consider using **sepia2 (#77390A)** for borders with `#DAC4B0` background.
 
