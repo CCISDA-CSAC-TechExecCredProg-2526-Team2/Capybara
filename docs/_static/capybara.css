@@ -243,6 +243,31 @@ footer {
     background-color: #f3f6f6;
 }
 
+/* Callouts */
+:root {
+  /* Callout Border Colors */
+  --color-tip: #FFF1B4 !important;
+  --color-check: #C7F7CD !important;
+  --color-info: #E9FAB6 !important;
+  --color-warning: #FFE5CC !important;
+  --color-important: #FFC2D2 !important;
+  --color-technicalnote: #F2E7CD !important;
+  --color-bonusinfo: #CAF6E5 !important;
+  --color-question: #D5D4FC !important;
+  --color-ontarget: #F5D9FF !important;
+  --color-screenshot: #DCF0E4 !important;
+  --color-quotation: #CEC5B9 !important;
+  --color-closerlook: #E2E9F3 !important;
+  --color-comingsoon: #CAF1FF !important;
+  --color-externallinks: #F1EAD0 !important;
+  --color-video: #E8CDB8 !important;
+  --color-default-border: #CFD6DE !important;
+  /* Shared Border Properties */
+  --callout-border-width: 6px !important;
+  --callout-border-style: double !important;
+  --callout-padding: 1em !important;
+}
+
 /* View page source */
 li.wy-breadcrumbs-aside {
    display: block;
