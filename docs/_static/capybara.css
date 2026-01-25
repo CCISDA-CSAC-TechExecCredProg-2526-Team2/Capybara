@@ -270,6 +270,7 @@ footer {
 .callout {
   padding: var(--callout-padding) !important;
   background-color: #FFFFFF !important;
+  border: var(--callout-border-width) var(--callout-border-style) var(--color-default);
   margin-bottom: 1rem !important;
 }
 img.callout-icon {
@@ -297,7 +298,7 @@ span.callout-title {
 .callout-quotation { border-color: var(--color-quotation) !important; }
 .callout-closerlook { border-color: var(--color-closerlook) !important; }
 .callout-comingsoo { border-color: var(--color-comingsoon) !important; }
-.callout-externallinks { border-colors: var(--color-externallinks) !important; }
+.callout-externallinks { border-color: var(--color-externallinks) !important; }
 .callout-video { border-color: var(--color-video) !important; }
 .callout-default { border-color: var(--color-default) !important; }
 
