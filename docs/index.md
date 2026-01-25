@@ -30,3 +30,11 @@ publishing
 changelog
 license
 ```
+
+```{toctree}
+:maxdepth: 1
+:caption: Press Releases & Media
+:titlesonly:
+recent-press
+media-kit
+```
