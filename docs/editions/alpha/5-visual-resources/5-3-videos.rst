@@ -11,7 +11,7 @@ Animations
    :header-rows: 0
 
    * - **Description**
-     - Capybara sipping coffee
+     - Capybara pleased to sniff a cup of coffee
    * - **License**
      - CC-BY 4.0
    * - **GIF**
