@@ -261,7 +261,7 @@ footer {
   --color-comingsoon: #CAF1FF !important;
   --color-externallinks: #F1EAD0 !important;
   --color-video: #E8CDB8 !important;
-  --color-default-border: #CFD6DE !important;
+  --color-default: #CFD6DE !important;
   /* Shared Border Properties */
   --callout-border-width: 6px !important;
   --callout-border-style: double !important;
@@ -272,7 +272,7 @@ footer {
   background-color: #FFFFFF;
   margin-bottom: 1rem;
 }
-.callout-tip { border-color: var(--color-tip) !important; }4
+.callout-tip { border-color: var(--color-tip) !important; }
 .callout-check { border-color: var(--color-check) !important; }
 .callout-info { border-color: var(--color-info) !important; }
 .callout-warning { border-color: var(--color-warning) !important; }
