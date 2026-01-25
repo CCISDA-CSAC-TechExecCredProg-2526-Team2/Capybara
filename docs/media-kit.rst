@@ -37,7 +37,7 @@ Stickers
        - :download:`qr-sticker-1.png </_static/assets/media-kit/qr-sticker-1.png>`
 
 
-  .. figure:: //_static/assets/media-kit/qr-sticker-2.png
+  .. figure:: _static/assets/media-kit/qr-sticker-2.png
 
   .. list-table::
      :widths: 20 80
@@ -48,10 +48,10 @@ Stickers
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`qr-sticker-2.png <//_static/assets/media-kit/qr-sticker-2.png>`
+       - :download:`qr-sticker-2.png <_static/assets/media-kit/qr-sticker-2.png>`
 
 
-  .. figure:: //_static/assets/media-kit/qr-sticker-3.png
+  .. figure:: ./_static/assets/media-kit/qr-sticker-3.png
 
   .. list-table::
      :widths: 20 80
@@ -62,7 +62,7 @@ Stickers
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`qr-sticker-3.png <//_static/assets/media-kit/qr-sticker-3.png>`
+       - :download:`qr-sticker-3.png <./_static/assets/media-kit/qr-sticker-3.png>`
 
 
   .. figure:: //en/latest/_images/qr-sticker-4.png
