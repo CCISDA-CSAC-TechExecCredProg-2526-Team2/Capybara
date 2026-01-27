@@ -276,7 +276,7 @@ footer {
 }
 .code {
   background-color: #151B23 !important;
-  color: #F8F8F8 !important;
+  color: #00FF00 !important;
   border-style: dashed !important;
   border-width: 3px;
 }
@@ -295,7 +295,7 @@ img.callout-icon {
    padding-bottom: 0.75em !important;
 }
 .code .callout-title {
-   color: #898989 !important;
+   color: #A6A6A6 !important;
 }
 .callout-tip { border-color: var(--color-tip) !important; }
 .callout-check { border-color: var(--color-check) !important; }
