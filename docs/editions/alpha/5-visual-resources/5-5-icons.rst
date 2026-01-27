@@ -116,6 +116,21 @@ Callout Symbols
 
 .. container:: icons-64
 
+  .. figure:: 5-5-icons/symbol-api.png
+  :Recommended display height: 64px
+  :Description: API symbol
+  :PNG: :download:`symbol-api.png <5-5-icons/symbol-api.png>`
+
+  .. figure:: 5-5-icons/symbol-arcgisindoors.png
+  :Recommended display height: 64px
+  :Description: ArcGIS Indoors logo symbol
+  :PNG: :download:`symbol-arcgisindoors.png <5-5-icons/symbol-arcgisindoors.png>`
+
+  .. figure:: 5-5-icons/symbol-arcgisonline.png
+  :Recommended display height: 64px
+  :Description: ArcGIS Online (AGOL) logo symbol
+  :PNG: :download:`symbol-arcgisonline.png <5-5-icons/symbol-arcgisonline.png>`
+
   .. figure:: 5-5-icons/symbol-arrow.png
   :Recommended display height: 64px
   :Description: Arrow symbol
@@ -150,6 +165,16 @@ Callout Symbols
   :Recommended display height: 64px
   :Description: Coming Soon (alternate) symbol
   :PNG: :download:`symbol-comingsoon2.png <5-5-icons/symbol-comingsoon2.png>`
+
+  .. figure:: 5-5-icons/symbol-commandline.png
+  :Recommended display height: 64px
+  :Description: Command line symbol
+  :PNG: :download:`symbol-commandline.png <5-5-icons/symbol-commandline.png>`
+
+  .. figure:: 5-5-icons/symbol-commandline2.png
+  :Recommended display height: 64px
+  :Description: Command line (alternate) symbol
+  :PNG: :download:`symbol-commandline2.png <5-5-icons/symbol-commandline2.png>`
 
   .. figure:: 5-5-icons/symbol-conversation.png
   :Recommended display height: 64px
@@ -251,10 +276,25 @@ Callout Symbols
   :Description: Monkeying around symbol
   :PNG: :download:`symbol-monkeyingaround.png <5-5-icons/symbol-monkeyingaround.png>`
 
-  .. figure:: 5-5-icons/symbol-question.png
+  .. figure:: 5-5-icons/symbol-monkeyingaround.png
   :Recommended display height: 64px
-  :Description: Question symbol
-  :PNG: :download:`symbol-question.png <5-5-icons/symbol-question.png>`
+  :Description: Monkeying around symbol
+  :PNG: :download:`symbol-monkeyingaround.png <5-5-icons/symbol-monkeyingaround.png>`
+
+  .. figure:: 5-5-icons/symbol-python.png
+  :Recommended display height: 64px
+  :Description: Python code symbol
+  :PNG: :download:`symbol-python.png <5-5-icons/symbol-python.png>`
+
+  .. figure:: 5-5-icons/symbol-pythonlogo.png
+  :Recommended display height: 64px
+  :Description: Python logo symbol
+  :PNG: :download:`symbol-pythonlogo.png <5-5-icons/symbol-pythonlogo.png>`
+
+  .. figure:: 5-5-icons/symbol-pythonlogo2.png
+  :Recommended display height: 64px
+  :Description: Python logo (alternate) symbol
+  :PNG: :download:`symbol-pythonlogo2.png <5-5-icons/symbol-pythonlogo2.png>`
 
   .. figure:: 5-5-icons/symbol-quotation.png
   :Recommended display height: 64px
@@ -265,6 +305,11 @@ Callout Symbols
   :Recommended display height: 64px
   :Description: Quotation (alternate) symbol
   :PNG: :download:`symbol-quotation2.png <5-5-icons/symbol-quotation2.png>`
+
+  .. figure:: 5-5-icons/symbol-rest.png
+  :Recommended display height: 64px
+  :Description: REST symbol
+  :PNG: :download:`symbol-rest.png <5-5-icons/symbol-rest.png>`
 
   .. figure:: 5-5-icons/symbol-screen.png
   :Recommended display height: 64px
@@ -285,6 +330,11 @@ Callout Symbols
   :Recommended display height: 64px
   :Description: See Also symbol
   :PNG: :download:`symbol-seealso.png <5-5-icons/symbol-seealso.png>`
+
+  .. figure:: 5-5-icons/symbol-servicenow.png
+  :Recommended display height: 64px
+  :Description: ServiceNow logo symbol
+  :PNG: :download:`symbol-servicenow.png <5-5-icons/symbol-servicenow.png>`
 
   .. figure:: 5-5-icons/symbol-shoutout.png
   :Recommended display height: 64px
