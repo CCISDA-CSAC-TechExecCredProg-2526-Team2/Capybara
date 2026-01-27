@@ -287,14 +287,14 @@ img.callout-icon {
    max-height: 32px !important;
    width: auto !important;
 }
-span.callout-title {
+.callout-title {
    display: block !important;
    font-size: x-large !important;
    font-weight: 800 !important;
    color: #484642 !important;
    padding-bottom: 0.75em !important;
 }
-span.code span.callout-title {
+.code .callout-title {
    color: #898989 !important;
 }
 .callout-tip { border-color: var(--color-tip) !important; }
