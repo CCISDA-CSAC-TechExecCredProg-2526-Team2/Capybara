@@ -262,7 +262,7 @@ footer {
   --color-externallinks: #F1EAD0 !important;
   --color-video: #E8CDB8 !important;
   --color-default: #CFD6DE !important;
-  --color-code: #29903B !important;
+  --color-code: #105823 !important;
   /* Shared Border Properties */
   --callout-border-width: 6px !important;
   --callout-border-style: double !important;
@@ -276,7 +276,7 @@ footer {
 }
 .code {
   background-color: #151B23 !important;
-  color: #29903B !important;
+  color: #F8F8F8 !important;
   border-style: dashed !important;
   border-width: 3px;
 }
@@ -295,7 +295,7 @@ span.callout-title {
    padding-bottom: 0.75em !important;
 }
 span.code span.callout-title {
-   color: #4A4A4A !important;
+   color: #898989 !important;
 }
 .callout-tip { border-color: var(--color-tip) !important; }
 .callout-check { border-color: var(--color-check) !important; }
