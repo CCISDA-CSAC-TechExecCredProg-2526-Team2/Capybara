@@ -291,7 +291,7 @@ img.callout-icon {
    display: block !important;
    font-size: x-large !important;
    font-weight: 800 !important;
-   color: #484642 !important;
+   color: #484642;
    padding-bottom: 0.75em !important;
 }
 .code .callout-title {
