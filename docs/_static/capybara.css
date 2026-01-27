@@ -262,6 +262,7 @@ footer {
   --color-externallinks: #F1EAD0 !important;
   --color-video: #E8CDB8 !important;
   --color-default: #CFD6DE !important;
+  --color-python: #34A552 !important;
   /* Shared Border Properties */
   --callout-border-width: 6px !important;
   --callout-border-style: double !important;
@@ -274,7 +275,7 @@ footer {
   margin-bottom: 1rem !important;
 }
 .code {
-  background-color: #0D1117 !important;
+  background-color: #151B23 !important;
   color: #FFFFFF !important;
   border-style: dashed !important;
 }
@@ -308,6 +309,7 @@ span.callout-title {
 .callout-externallinks { border-color: var(--color-externallinks) !important; }
 .callout-video { border-color: var(--color-video) !important; }
 .callout-default { border-color: var(--color-default) !important; }
+.callout-python { border-color: #35AA54 !important; }
 
 /* View page source */
 li.wy-breadcrumbs-aside {
