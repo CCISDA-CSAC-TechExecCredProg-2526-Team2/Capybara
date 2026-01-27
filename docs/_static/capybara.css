@@ -294,7 +294,7 @@ span.callout-title {
    color: #484642 !important;
    padding-bottom: 0.75em !important;
 }
-span.callout-title span.code {
+span.code span.callout-title {
    color: #4A4A4A !important;
 }
 .callout-tip { border-color: var(--color-tip) !important; }
