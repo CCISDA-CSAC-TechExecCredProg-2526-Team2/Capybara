@@ -262,7 +262,7 @@ Examples:
 <strong>Note:</strong> This is a Python callout.
 </div>
 ```
-<div class="callout code callout-python"><img src="/en/latest/_images/symbol-python.png" class="callout-icon"><span class="callout-title">Python Callout</span>
+<div class="callout code callout-code"><img src="/en/latest/_images/symbol-python.png" class="callout-icon"><span class="callout-title">Python Callout</span>
 <strong>Note:</strong> This is a Python callout.
 </div>
 
