@@ -187,20 +187,20 @@ Examples:
 
 ```
 <div class="callout callout-question"><img src="/en/latest/_images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
-<strong>Note:</strong> This is a question callout.
+<strong>Note:</strong> This is a question info callout.
 </div>
 ```
 <div class="callout callout-question"><img src="/en/latest/_images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
-<strong>Note:</strong> This is a question callout.
+<strong>Note:</strong> This is a question info callout.
 </div>
 
 ```
 <div class="callout callout-ontarget"><img src="/en/latest/_images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
-<strong>Note:</strong> This is a default callout.
+<strong>Note:</strong> This is an on target callout.
 </div>
 ```
 <div class="callout callout-ontarget"><img src="/en/latest/_images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
-<strong>Note:</strong> This is a default callout.
+<strong>Note:</strong> This is an on target callout.
 </div>
 
 ```
