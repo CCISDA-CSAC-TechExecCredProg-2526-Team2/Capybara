@@ -267,21 +267,21 @@ Examples:
 </div>
 
 ```
-<div class="callout code callout-code"><span class="callout-title">Other code-centric icons</span>
-<img src="/en/latest/_images/symbol-commandline2.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-rest.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-api.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-servicenow.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-arcgisonline.png" class="callout-icon">
+<div class="callout code callout-code"><span class="callout-title">Other code-centric icons</span><br>
+<img src="/en/latest/_images/symbol-commandline2.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-rest.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-api.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-servicenow.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-arcgisonline.png" class="callout-icon"><br>
 <img src="/en/latest/_images/symbol-arcgisindoors.png" class="callout-icon">
 </div>
 ```
-<div class="callout code callout-code"><span class="callout-title">Other code-centric icons</span>
-<img src="/en/latest/_images/symbol-commandline2.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-rest.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-api.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-servicenow.png" class="callout-icon">
-<img src="/en/latest/_images/symbol-arcgisonline.png" class="callout-icon">
+<div class="callout code callout-code"><span class="callout-title">Other code-centric icons</span><br>
+<img src="/en/latest/_images/symbol-commandline2.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-rest.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-api.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-servicenow.png" class="callout-icon"><br>
+<img src="/en/latest/_images/symbol-arcgisonline.png" class="callout-icon"><br>
 <img src="/en/latest/_images/symbol-arcgisindoors.png" class="callout-icon">
 </div>
 
