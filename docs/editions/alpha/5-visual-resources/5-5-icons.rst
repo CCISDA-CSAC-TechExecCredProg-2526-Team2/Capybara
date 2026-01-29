@@ -271,6 +271,11 @@ Callout Symbols
   :Description: Microscope (minutae) (alternate) symbol
   :PNG: :download:`symbol-microscope2.png <5-5-icons/symbol-microscope2.png>`
 
+  .. figure:: 5-5-icons/symbol-questionbubble.png
+  :Recommended display height: 64px
+  :Description: Question bubble symbol
+  :PNG: :download:`symbol-questionbubble.png <5-5-icons/symbol-questionbubble.png>`
+
   .. figure:: 5-5-icons/symbol-monkeyingaround.png
   :Recommended display height: 64px
   :Description: Monkeying around symbol
