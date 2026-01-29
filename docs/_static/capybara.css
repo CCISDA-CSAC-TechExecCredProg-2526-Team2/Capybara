@@ -275,6 +275,7 @@ footer {
   margin-bottom: 1rem !important;
 }
 .code {
+  font-family: "Source Code Pro", monospace !important;
   background-color: #151B23 !important;
   color: #00FF00 !important;
   border-style: dashed !important;
@@ -289,6 +290,7 @@ img.callout-icon {
 }
 .callout-title {
    display: block !important;
+   font-family: 'Source Sans 3', sans-serif !important;
    font-size: x-large !important;
    font-weight: 800 !important;
    color: #484642;
