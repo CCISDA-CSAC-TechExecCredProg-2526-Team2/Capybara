@@ -58,7 +58,7 @@ Example:
 
 ## Text and Typography
 
-- **Fonts:** The Original Edition uses the free and open-source fonts <em>Source Sans 3</em> and <em>Source Code</em>.
+- **Fonts:** The Original Edition uses the free and open-source fonts <em>Source Sans 3</em> and <em>Source Code Pro</em>.
 - **Body text:** Dark brown or black, high contrast against light sepia backgrounds (`#DAC4B0` or `#C4A48A`).  
 - **Links:** Use `#39BBFF` for standard links; hover states can be `#277DD1`.  
 - **Emphasis:** Italics or bold as needed, but avoid excessive styling.
