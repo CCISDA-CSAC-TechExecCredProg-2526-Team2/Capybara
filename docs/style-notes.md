@@ -1,40 +1,5 @@
 # Style Notes and Guidelines
 
-```
-    <style>
-    /* Headings */
-    h1, h2, h3, h4, h5, h6 {
-        color: #77390A; /* Heading font color */
-    }
-
-    /* Sepia palette swatches */
-    .color-swatch {
-        display: inline-block;
-        width: 60px;
-        height: 30px;
-        margin: 0 10px 10px 0;
-        border: 1px solid #999;
-        vertical-align: middle;
-        line-height: 30px;
-        text-align: center;
-        color: #fff;
-        font-size: 0.75rem;
-        font-family: monospace;
-    }
-
-    .sepia1 { background-color: #9F5A2C; }
-    .sepia2 { background-color: #77390A; }
-    .sepia3 { background-color: #DAC4B0; color: #000; }
-    .sepia4 { background-color: #C4A48A; color: #000; }
-
-    /* Blue accents */
-    .accent1 { background-color: #39BBFF; }
-    .accent2 { background-color: #277DD1; }
-    .accent3 { background-color: #0C61B9; }
-    .accent4 { background-color: #00356B; }
-
-    </style>
-```
 
 ## Introduction
 
@@ -93,6 +58,7 @@ Example:
 
 ## Text and Typography
 
+- **Fonts:** The Original Edition uses the free and open-source fonts <em>Source Sans 3</em> and <em>Source Code</em>.
 - **Body text:** Dark brown or black, high contrast against light sepia backgrounds (`#DAC4B0` or `#C4A48A`).  
 - **Links:** Use `#39BBFF` for standard links; hover states can be `#277DD1`.  
 - **Emphasis:** Italics or bold as needed, but avoid excessive styling.
