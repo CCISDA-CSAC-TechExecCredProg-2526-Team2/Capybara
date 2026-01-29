@@ -186,12 +186,12 @@ Examples:
 </div>
 
 ```
-<div class="callout callout-question"><img src="/en/latest/_images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
-<strong>Note:</strong> This is a question info callout.
+<div class="callout callout-questionbubble"><img src="/en/latest/_images/symbol-questionbubble.png" class="callout-icon"><span class="callout-title">Question bubble Callout</span>
+<strong>Note:</strong> This is a questionbubble info callout.
 </div>
 ```
-<div class="callout callout-question"><img src="/en/latest/_images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
-<strong>Note:</strong> This is a question info callout.
+<div class="callout callout-questionbubble"><img src="/en/latest/_images/symbol-questionbubble.png" class="callout-icon"><span class="callout-title">Question bubble Callout</span>
+<strong>Note:</strong> This is a questionbubble info callout.
 </div>
 
 ```
