@@ -2,14 +2,23 @@
    Capybara Brand Theme
    =============================== */
 
-@media screen and (max-width:781px) {
-    .capybara-left{
-        display: none !important;
-    }
-    .capybara-right{
-        display: none !important;
-    }
+/* Hide by default */
+.capybara-left, .capybara-right {
+  display: none !important;
 }
+/* Show between 480px and 768px */
+@media (min-width: 480px) and (max-width: 768px) {
+  .capybara-left, .capybara-right {
+    display: block !important;
+  }
+}
+/* Show greater than 781px */
+@media (min-width: 782px) {
+  .capybara-left, .capybara-right {
+    display: block !important;
+  }
+}
+
 
 @import url('https://fonts.googleapis.com');
 /* Apply to body text and headings */
