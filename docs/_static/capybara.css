@@ -13,7 +13,7 @@
   }
 }
 /* Show greater than 781px */
-@media (min-width: 782px) {
+@media (min-width: 792px) {
   .capybara-left, .capybara-right {
     display: block !important;
   }
