@@ -228,14 +228,14 @@ footer {
   float: left;
   width: 250px;
   margin: 0 1em 1em 0;
-  shape-outside: circle(50%);
+  shape-outside: circle(150%);
 }
 
 .capybara-right {
   float: right;
   width: 250px;
   margin: 0 0 1em 1em;
-  shape-outside: circle(50%);
+  shape-outside: circle(150%);
 }
 
 /* Tables */
