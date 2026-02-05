@@ -2,6 +2,15 @@
    Capybara Brand Theme
    =============================== */
 
+@media screen and (max-width:781px) {
+    .capybara-left{
+        display: none !important;
+    }
+    .capybara-right{
+        display: none !important;
+    }
+}
+
 @import url('https://fonts.googleapis.com');
 /* Apply to body text and headings */
 html {
