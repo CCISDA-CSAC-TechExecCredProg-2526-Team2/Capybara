@@ -12,29 +12,22 @@ All future editions should respect these choices unless explicitly updated in a 
 
 **Sepia Base Colors**
 
-<div class="color-swatch sepia1">#9F5A2C</div>
-<div class="color-swatch sepia2">#77390A</div>
-<div class="color-swatch sepia3">#DAC4B0</div>
-<div class="color-swatch sepia4">#C4A48A</div>
-
-- `#9F5A2C` – primary sepia tone  
-- `#77390A` – heading color  
-- `#DAC4B0` – light background / neutral  
-- `#C4A48A` – accent / secondary background
+<table>
+    <tr><td style="background-color:#9F5A2C;">#9F5A2C</td><td>primary sepia tone</td></tr>
+    <tr><td style="background-color:#77390A;">#77390A</td><td>heading color</td></tr>
+    <tr><td style="background-color:#DAC4B0;">#DAC4B0</td><td>light background / neutral</td></tr>
+    <tr><td style="background-color:#C4A48A;">#C4A48A</td><td>accent / secondary background</td></tr>
+</table>
 
 **Blue Accent Colors**
 
-```
-    <div class="color-swatch accent1">#39BBFF</div>
-    <div class="color-swatch accent2">#277DD1</div>
-    <div class="color-swatch accent3">#0C61B9</div>
-    <div class="color-swatch accent4">#00356B</div>
-```
+<table>
+    <tr><td style="background-color:#39BBFF;">#39BBFF</td><td>hyperlink / callout highlight</td></tr>
+    <tr><td style="background-color:#277DD1;">#277DD1</td><td>secondary hyperlink / buttons</td></tr>
+    <tr><td style="background-color:#0C61B9;">#0C61B9</td><td>tertiary accent</td></tr>
+    <tr><td style="background-color:#00356B;">#00356B</td><td>deep accent / headers if needed</td></tr>
+</table>
 
-- `#39BBFF` – hyperlink / callout highlight  
-- `#277DD1` – secondary hyperlink / buttons  
-- `#0C61B9` – tertiary accent  
-- `#00356B` – deep accent / headers if needed
 
 ## Headings
 
