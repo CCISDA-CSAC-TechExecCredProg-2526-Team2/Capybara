@@ -17,7 +17,7 @@ All future editions should respect these choices unless explicitly updated in a 
     <tr><td style="background-color:#77390A;color:#FFFFFF;">#77390A</td><td>heading color</td></tr>
     <tr><td style="background-color:#DAC4B0;">#DAC4B0</td><td>light background / neutral</td></tr>
     <tr><td style="background-color:#C4A48A;">#C4A48A</td><td>accent / secondary background</td></tr>
-</table>
+</table><br/>
 
 **Blue Accent Colors**
 
@@ -26,7 +26,7 @@ All future editions should respect these choices unless explicitly updated in a 
     <tr><td style="background-color:#277DD1;color:#FFFFFF;">#277DD1</td><td>secondary hyperlink / buttons</td></tr>
     <tr><td style="background-color:#0C61B9;color:#FFFFFF;">#0C61B9</td><td>tertiary accent</td></tr>
     <tr><td style="background-color:#00356B;color:#FFFFFF;">#00356B</td><td>deep accent / headers if needed</td></tr>
-</table>
+</table><br/>
 
 
 ## Headings
