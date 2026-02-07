@@ -12,16 +12,16 @@ All future editions should respect these choices unless explicitly updated in a 
 
 **Sepia Base Colors**
 
-<table cellpadding=5 cellspacing=5>
+<table style="padding-bottom:1em;" cellpadding=5 cellspacing=5>
     <tr><td style="background-color:#9F5A2C;">#9F5A2C</td><td>primary sepia tone</td></tr>
     <tr><td style="background-color:#77390A;color:#FFFFFF;">#77390A</td><td>heading color</td></tr>
     <tr><td style="background-color:#DAC4B0;">#DAC4B0</td><td>light background / neutral</td></tr>
     <tr><td style="background-color:#C4A48A;">#C4A48A</td><td>accent / secondary background</td></tr>
-</table><br/>
+</table>
 
 **Blue Accent Colors**
 
-<table cellpadding=5 cellspacing=5>
+<table style="padding-bottom:1em;" cellpadding=5 cellspacing=5>
     <tr><td style="background-color:#39BBFF;">#39BBFF</td><td>hyperlink / callout highlight</td></tr>
     <tr><td style="background-color:#277DD1;color:#FFFFFF;">#277DD1</td><td>secondary hyperlink / buttons</td></tr>
     <tr><td style="background-color:#0C61B9;color:#FFFFFF;">#0C61B9</td><td>tertiary accent</td></tr>
