@@ -45,24 +45,23 @@ body {
 .capybara-edition {
   margin: 0.75rem 0 1.25rem 0;
   padding: 0.75rem;
-  border-left: 4px solid #535353;
-  background-color: #202020;
+  /* border-left: 4px solid #535353; */
+  /* background-color: #202020; */
   font-size: 0.85rem;
+  font-weight: normal;
 }
-
 .capybara-edition-name {
   font-weight: bold;
   color: #EBE0D5;
 }
-
 .capybara-edition-version {
   color: #C6A88E;
   margin-top: 0.15rem;
 }
-
 .capybara-edition-tagline {
   margin-top: 0.4rem;
   font-style: italic;
+  font-size: 0.65rem;
   color: #CAB29E;
 }
 
