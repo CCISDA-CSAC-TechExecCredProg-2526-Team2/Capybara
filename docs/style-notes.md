@@ -12,12 +12,10 @@ All future editions should respect these choices unless explicitly updated in a 
 
 **Sepia Base Colors**
 
-```
-    <div class="color-swatch sepia1">#9F5A2C</div>
-    <div class="color-swatch sepia2">#77390A</div>
-    <div class="color-swatch sepia3">#DAC4B0</div>
-    <div class="color-swatch sepia4">#C4A48A</div>
-```
+<div class="color-swatch sepia1">#9F5A2C</div>
+<div class="color-swatch sepia2">#77390A</div>
+<div class="color-swatch sepia3">#DAC4B0</div>
+<div class="color-swatch sepia4">#C4A48A</div>
 
 - `#9F5A2C` – primary sepia tone  
 - `#77390A` – heading color  
